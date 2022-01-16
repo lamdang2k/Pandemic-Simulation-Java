@@ -15,7 +15,7 @@ Black Dots represent dead People, they are left on the spot of their death and d
 # Graphs 
 While the simulation evolves, one can get an idea of the rate of death and infection by looking at the rigth corner of the simulation window, the graph in blue represents the number of infected people as a function of time, the graph in black shows the number of dead people as a function of time.
 # Features
-one can activate one or many features to stop the spread of the virus.
+Users can activate one or many features to stop the spread of the virus.
 ### Handwash
 This button allows the user to make some people wash their hands. The user can control who and how many wash their hands ,  by clicking on the moving dots with their mouse.
 ### Lockdown
